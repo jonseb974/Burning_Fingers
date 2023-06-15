@@ -13,10 +13,10 @@ This application is a blog that is linked to Ombd API.
 
 - He can make a request to the OMbd API and access to the movies library.
 
-- He can create a playlist and store the movies as fafourite they will
+- He can create a playlist and store the movies as favourite, the favourite will
 be stored in the browsers.
 
-- The user can delete the movies
+- The user can delete the movies.
 
 ![image](api.png)
 
